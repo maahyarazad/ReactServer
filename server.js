@@ -34,50 +34,47 @@ app.get('/api/site-data', (req, res) => {
 const upload = multer({
     dest: path.join(__dirname, "/uploads")
 })
-app.post('/api/contact-us', upload.array('attachment'), (req, res) => {
-    const filePath = path.join(__dirname, 'request-data.json');
 
-
-    const { name, email, message } = req.body;
-    const attachment = req.files.map(file => ({
-        originalName: file.originalname,
-        storedName: file.filename,
-        path: file.path,
-        mimetype: file.mimetype,
-        size: file.size,
-    }));
-
-    const newEntry = {
-        name,
-        email,
-        message,
-        attachment,
-        timestamp: new Date().toISOString()
-    };
-
-    // Ensure the file exists or create it
-    fs.readFile(filePath, 'utf-8', (err, data) => {
-        let entries = [];
-
-        if (err) {
-            if (err.code === 'ENOENT') {
-                // File doesn't exist, create it
-                entries = [newEntry];
-            } else {
-                return res.status(500).json({ error: 'Failed to read data.json' });
-            }
-        } else {
-            try {
-                entries = JSON.parse(data);
-                if (!Array.isArray(entries)) entries = [];
-                entries.push(newEntry);
-            } catch (error) {
-                return res.status(500).json({ error: 'Corrupted data.json file' });
-            }
+app.post('/api/contact-us', upload.single('attachment'), (req, res) => {
+    
+    try {
+        const filePath = path.join(__dirname, 'request-data.json');
+        if (!fs.existsSync(filePath)) {
+            fs.writeFileSync(filePath, JSON.stringify([], null, 2), 'utf-8');
         }
 
+        let attachment = null;
+        const { name, email, message } = req.body;
+
+        if (req.file !== undefined && req.file !== null) {
+            attachment = {
+                originalName: req.file.originalname,
+                storedName: req.file.filename,
+                mimetype: req.file.mimetype,
+                size: req.file.size,
+            };
+        }
+
+
+        const newEntry = {
+            name,
+            email,
+            message,
+            attachment,
+            timestamp: new Date().toISOString()
+        };
+
+        const data = fs.readFileSync(filePath, 'utf-8');
+        const requestData = JSON.parse(data);
+        requestData.push(newEntry);
+        fs.writeFileSync(filePath, JSON.stringify(requestData, null, 2), 'utf-8');
+
+        return res.status(201).json({ message: 'Your request created. Thank you for reaching out to us.' });
         
-    });
+    } catch (err) {
+        return res.status(500).json({error: err})  
+    }
+
 });
 
 app.listen(port, () => {
