@@ -1,0 +1,299 @@
+{
+  "companyName": "TechSolutionsInc.",
+  "companyLogo": "https://cdn.dribbble.com/userupload/18467822/file/original-6dc62fc38015a876784c9dcc98737906.jpg?resize=400x0",
+  "navLinks": [
+    {
+      "label": "OverOns",
+      "path": "/about",
+      "id": 1
+    },
+    {
+      "label": "Diensten",
+      "path": "/services",
+      "id": 2
+    },
+    {
+      "label": "Casestudies",
+      "path": "/contact",
+      "id": 3
+    },
+    {
+      "label": "Prijzen",
+      "path": "/get-started",
+      "type": "button",
+      "id": 4
+    },
+    {
+      "label": "Inzichten",
+      "path": "/insight",
+      "type": "button",
+      "id": 5
+    }
+  ],
+  "serviceCards_1": [
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Healthcare.svg",
+      "imageAlt": "Zorgicoon",
+      "title": "Zorg",
+      "description": "We ontwikkelen diensten, tools en systemen om patiënten en personeel van actuele software te voorzien.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Education.svg",
+      "imageAlt": "Onderwijsicoon",
+      "title": "Onderwijs",
+      "description": "E-learningoplossingen die onderwijs flexibel, boeiend en zeer efficiënt maken.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Retail-and-commerce.svg",
+      "imageAlt": "Detailhandel en commerce icoon",
+      "title": "Detailhandel",
+      "description": "We bouwen sterkere verbindingen met klanten via web- en mobiele applicaties met een superieure winkelervaring en 24/7 beschikbaarheid.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Manufacturing.svg",
+      "imageAlt": "Productie icoon",
+      "title": "Productie",
+      "description": "Uitgebreide softwareoplossingen voor supply chain management, voorraadbeheer, magazijnen, productie monitoring, procesautomatisering en meer.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Professional-Services.svg",
+      "imageAlt": "Professionele diensten icoon",
+      "title": "Professionele Diensten",
+      "description": "We ontwikkelen CRM, managementtools, facturatieproducten, documentbeheersystemen en meer. Onze oplossingen zijn gemaakt voor professionals door professionals.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Telecoms.svg",
+      "imageAlt": "Telecom icoon",
+      "title": "Telecom",
+      "description": "We verbeteren de wereldwijde communicatie door oplossingen voor netwerkbeheer, klantervaring, IoT, beveiliging, automatisering en analytics te bouwen.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Logistics-and-Transportation.svg",
+      "imageAlt": "Logistiek en Transport icoon",
+      "title": "Logistiek & Transport",
+      "description": "Software voor vrachtreservering, transportbeheer en gestroomlijnde supply chain-operaties om goederen en bedrijven in beweging te houden.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Engineering-and-Construction.svg",
+      "imageAlt": "Engineering en Constructie icoon",
+      "title": "Engineering & Constructie",
+      "description": "Van geavanceerde BIM-oplossingen en kostenramingtools tot IoT-integratie, we leggen de basis voor de bouwsector.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Marketing-and-Advertising.svg",
+      "imageAlt": "Marketing en Advertentie icoon",
+      "title": "Marketing & Advertenties",
+      "description": "We bouwen effectieve klantrelaties met marketingautomatiseringstools die helpen strategieën te optimaliseren, inzichten te verzamelen en gedurfde doelen te bereiken.",
+      "services": [],
+      "showServicesList": false
+    }
+  ],
+  "testimonials": [
+    {
+      "review": "Het systeem heeft een aanzienlijke concurrentievoordeel in de industrie opgeleverd dankzij de goed doordachte meningen van SumatoSoft.",
+      "additionalInfo": "Ze hebben de last gedragen van het voortdurend bijwerken van een projectmanagementtool met een hoog detailniveau en waren vastbesloten om de best mogelijke oplossing te produceren.",
+      "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo.png",
+      "authorName": "Alexander McCaig",
+      "authorPosition": "Co-Founder & CEO, Tartle"
+    },
+    {
+      "review": "Ik was onder de indruk van de prijzen van SumatoSoft, vooral voor het project dat ik wilde doen en in vergelijking met de offertes die ik van veel andere bedrijven ontving.",
+      "additionalInfo": "Ook waren hun communicatieve vaardigheden geweldig; het voelde nooit aan als een project op afstand. Het voelde alsof SumatoSoft naast me werkte omdat hun projectmanager me altijd op de hoogte hield. Aanvankelijk.",
+      "authorImage": "https://sumatosoft.com/wp-content/uploads/2022/12/5cc8378b669af259c74ec736_b_dorsinvil-2-1-1.jpg",
+      "authorName": "Benjamin Dorsinvil",
+      "authorPosition": "Founder, SellBig"
+    },
+    {
+      "review": "We probeerden een ander bedrijf dat een van onze partners had gebruikt, maar dat werkte niet. Ik heb het gevoel dat SumatoSoft een betere inspectie maakt van wat we vragen. Ze vertellen ons hoe ze van plan zijn een taak uit te voeren en vragen of dat voor ons werkt. We kozen hen omdat hun methode met ons werkte.",
+      "additionalInfo": "",
+      "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo6.png",
+      "authorName": "Damian Gevertz",
+      "authorPosition": "Founder & CEO, Widgety"
+    },
+    {
+      "review": "SumatoSoft is geweldig in elk opzicht, inclusief kosten, professionaliteit, transparantie en bereidheid om te begeleiden. Ik denk dat ze geweldige adviseurs waren in het begin toen we nog niet klaar waren met een volledig uitgewerkt idee dat naar de markt kon.",
+      "additionalInfo": "Ze kennen de zakelijke en startup-scene ook wereldwijd.",
+      "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo13.png",
+      "authorName": "David Logan",
+      "authorPosition": "Founder, Umergence"
+    },
+    {
+      "review": "SumatoSoft is het bedrijf om mee te werken als je aan hoge standaarden wilt voldoen. De professionele workflows die ze volgen resulteren in uitzonderlijke kwaliteit.",
+      "additionalInfo": "Belangrijk, ze helpen je te denken met de bedrijfslogica van je applicatie en ze volgen niet blindelings wat je zegt. Wat super belangrijk is. Over het algemeen geweldige vaardigheden, goede communicatie en tevreden met de resultaten tot nu toe.",
+      "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo2.png",
+      "authorName": "Domien Van Eynde",
+      "authorPosition": "Team Lead, Daiokan.com"
+    }
+  ],
+  "serviceCards_2": [
+    {
+      "href": "https://sumatosoft.com/solutions/big-data",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Big-data.svg",
+      "imageAlt": "Big Data icoon",
+      "title": "Big Data",
+      "description": "Data is de levensader van het moderne digitale tijdperk, en wij zijn erbij, om bedrijven te helpen data te verwerken en te transformeren voor hun behoeften. Of het nu gaat om het optimaliseren van operaties, het verbeteren van klantervaringen of het identificeren van markttrends, onze big data-expertise transformeert ruwe data in een strategisch bezit voor het bedrijf.",
+      "services": [
+        "dataverzameling en integratie van meerdere bronnen",
+        "schaalbare datapijplijnontwikkeling",
+        "geavanceerde data-analyse en visualisatie",
+        "voorspellende modellering en prognoses",
+        "real-time dataverwerking en analyse",
+        "big data-infrastructuur opzetten en beheren",
+        "datawarehouse en lake ontwerp",
+        "machine learning integratie voor verbeterde inzichten",
+        "klantgedrag en trendanalyse",
+        "data beveiliging en compliance oplossingen"
+      ],
+      "linkText": "Big Data diensten",
+      "showServicesList": true,
+      "hoverEffect": true
+    },
+    {
+      "href": "https://sumatosoft.com/solutions/internet-of-things-software-development",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Internet-of-Things.svg",
+      "imageAlt": "IoT icoon",
+      "title": "Internet of Things (IoT)",
+      "description": "Verbind apparaten, monitor operaties en stroomlijn workflows met onze IoT-oplossingen. Van slimme productie en voorspellend onderhoud tot optimalisatie van de supply chain en afstandsmonitoring, we leveren op maat gemaakte IoT-projecten die innovatie stimuleren in verschillende sectoren.",
+      "services": [
+        "op maat gemaakte IoT-oplossing ontwikkeling",
+        "IoT-apparaatintegratie en connectiviteit",
+        "real-time dataverzameling en analyse",
+        "voorspellende onderhoudoplossingen",
+        "slimme productie en automatiseringssystemen",
+        "vlootbeheer en tracking applicaties",
+        "IoT-consulting",
+        "afstandsmonitoring en controlesystemen",
+        "IoT datavisualisatie en dashboards",
+        "veilige IoT-infrastructuur en compliance"
+      ],
+      "linkText": "IoT softwareontwikkeling",
+      "showServicesList": true,
+      "hoverEffect": true
+    },
+    {
+      "href": "https://sumatosoft.com/solutions/artificial-intelligence",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Artificial-intelligence.svg",
+      "imageAlt": "AI icoon",
+      "title": "Kunstmatige Intelligentie",
+      "description": "Van voorspellende analyses tot machine learning, computervisie, chatbotassistenten en AI-aangedreven gezondheidsdiagnoses, AI beïnvloedt elke industrie. We ontwerpen op maat gemaakte AI-modellen en integreren AI-tools in onze projecten om bedrijfsverandering te stimuleren.",
+      "services": [
+        "op maat gemaakte AI-model ontwikkeling",
+        "voorspellende analyses en prognoseoplossingen",
+        "implementatie van machine learning-algoritmen",
+        "natuurlijke taalverwerking (NLP) voor chatbots en assistenten",
+        "computervisie voor beeld- en videoanalyse",
+        "AI-aangedreven gezondheidsdiagnoses en besluitvorming",
+        "AI-tools voor voorspellend onderhoud",
+        "consulting over het implementeren van AI",
+        "sentimentanalyse en klantgedrag voorspelling",
+        "AI-integratie met bestaande softwaresystemen"
+      ],
+      "linkText": "AI ontwikkeling",
+      "showServicesList": true,
+      "hoverEffect": true
+    },
+    {
+      "href": "https://sumatosoft.com/solutions/blockchain",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Blockchain.svg",
+      "imageAlt": "Blockchain icoon",
+      "title": "Blockchain",
+      "description": "Ontgrendel het potentieel van blockchain-technologie met onze diensten. Van slimme contracten en digitale portemonnees tot traceerbaarheid in de supply chain en financiële transacties, we ontwikkelen veilige softwareoplossingen met tamper-proof records en volledige dataintegriteit.",
+      "services": [
+        "ontwikkeling en auditing van slimme contracten",
+        "op maat gemaakte blockchain applicatieontwikkeling",
+        "blockchain integratie met bestaande systemen",
+        "gedecentraliseerde applicatie (dApp) ontwikkeling",
+        "tokenisatie en creatie van digitale activa",
+        "private en publieke blockchain netwerken",
+        "blockchain-gebaseerde supply chain oplossingen",
+        "blockchain ontwikkeling consulting",
+        "blockchain-aangedreven identiteitsbeheer",
+        "veilige en tamper-proof dataopslagoplossingen"
+      ],
+      "linkText": "Blockchain ontwikkeling",
+      "showServicesList": true,
+      "hoverEffect": true
+    }
+  ],
+  "homeSliders": [
+    {
+      "id": 1,
+      "title": "Welkom op ons platform",
+      "text": "We helpen je je bedrijf te laten groeien met slimme oplossingen.",
+      "image": "https://png.pngtree.com/background/20210709/original/pngtree-technology-business-blue-background-glare-picture-image_939240.jpg"
+    }
+  ],
+  "footer": {
+    "companyName": "TechSolutionsInc.",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZlaUXIWozu3xqknYB3S9nknCPGFPAEVZLA&s",
+    "about": "TechSolutionsInc. is een toonaangevende leverancier van innovatieve bedrijfsoplossingen.",
+    "navLinks": [
+      {
+        "label": "Privacybeleid",
+        "path": "/privacy-policy"
+      },
+      {
+        "label": "Servicevoorwaarden",
+        "path": "/terms-of-service"
+      },
+      {
+        "label": "Carrières",
+        "path": "/careers"
+      }
+    ],
+    "socialLinks": [
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/TechSolutions",
+        "icon": "fabfa-facebook-f"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/TechSolutions",
+        "icon": "fabfa-twitter"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/company/TechSolutions",
+        "icon": "fabfa-linkedin"
+      }
+    ],
+    "contact": {
+      "email": "contact@techsolutions.com",
+      "phone": "+1123-456-7890"
+    }
+  }
+}

@@ -11,8 +11,17 @@ const port = process.env.PORT || 5000;
 
 
 app.get('/api/site-data', (req, res) => {
-    const filePath = path.join(__dirname, 'site-data.json');
+    
 
+    const lang = req.query.lang;
+
+
+    let filePath = path.join(__dirname, 'site-data.json');
+    
+    if(lang === "DE"){
+        filePath = path.join(__dirname, 'site-data-de.json');
+    }
+    
     fs.readFile(filePath, 'utf-8', (err, data) => {
         if (err) {
             console.error('Error reading the file:', err);

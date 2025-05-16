@@ -30,98 +30,98 @@
       "id": 5
     }
   ],
-  "serviceCards_1":[
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Healthcare.svg",
-    "imageAlt": "Healthcare icon",
-    "title": "Healthcare",
-    "description": "We develop services, tools, and systems to provide patients and staff with up-to-date software.",
-    "services": [],
-    "showServicesList": false,
-    "clickable" : false
-  },
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Education.svg",
-    "imageAlt": "Education icon",
-    "title": "Education",
-    "description": "E-learning solutions that make education flexible, engaging, and highly efficient.",
-    "services": [],
-    "showServicesList": false,
-        "clickable" : false
-  },
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Retail-and-commerce.svg",
-    "imageAlt": "Retail and commerce icon",
-    "title": "Retail",
-    "description": "We build stronger connections with customers through web and mobile applications with superior shopping experience and 24/7 availability.",
-    "services": [],
-    "showServicesList": false,
-        "clickable" : false
-  },
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Manufacturing.svg",
-    "imageAlt": "Manufacturing icon",
-    "title": "Manufacturing",
-    "description": "Comprehensive software solutions for supply chain management, inventory management, warehouses, production monitoring, process automation, and more.",
-    "services": [],
-    "showServicesList": false,
-        "clickable" : false
-  },
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Professional-Services.svg",
-    "imageAlt": "Professional Services icon",
-    "title": "Professional Services",
-    "description": "We develop CRM, management tools, billing products, document management systems, and more. Our solutions are built for professionals by professionals.",
-    "services": [],
-    "showServicesList": false,
-        "clickable" : false
-  },
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Telecoms.svg",
-    "imageAlt": "Telecoms icon",
-    "title": "Telecoms",
-    "description": "We enhance global communication by building solutions for network management, customer experience, IoT, security, automation, and analytics.",
-    "services": [],
-    "showServicesList": false,
-        "clickable" : false
-  },
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Logistics-and-Transportation.svg",
-    "imageAlt": "Logistics and Transportation icon",
-    "title": "Logistics & Transportation",
-    "description": "Software for freight reservation, transportation management, and streamlined supply chain operations to keep goods and business moving.",
-    "services": [],
-    "showServicesList": false,
-        "clickable" : false
-  },
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Engineering-and-Construction.svg",
-    "imageAlt": "Engineering and Construction icon",
-    "title": "Engineering & Construction",
-    "description": "From advanced BIM solutions and cost estimation tools to IoT integration, we lay the foundation for the construction industry.",
-    "services": [],
-    "showServicesList": false,
-        "clickable" : false
-  },
-  {
-    "href": "",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Marketing-and-Advertising.svg",
-    "imageAlt": "Marketing and Advertising icon",
-    "title": "Marketing & Advertising",
-    "description": "We build effective Client relationships with marketing automation tools that help optimize strategies, gather insights, and achieve brave goals.",
-    "services": [],
-    "showServicesList": false
-  }
-]
-,"testimonials": [
+  "serviceCards_1": [
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Healthcare.svg",
+      "imageAlt": "Healthcare icon",
+      "title": "Healthcare",
+      "description": "We develop services, tools, and systems to provide patients and staff with up-to-date software.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Education.svg",
+      "imageAlt": "Education icon",
+      "title": "Education",
+      "description": "E-learning solutions that make education flexible, engaging, and highly efficient.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Retail-and-commerce.svg",
+      "imageAlt": "Retail and commerce icon",
+      "title": "Retail",
+      "description": "We build stronger connections with customers through web and mobile applications with superior shopping experience and 24/7 availability.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Manufacturing.svg",
+      "imageAlt": "Manufacturing icon",
+      "title": "Manufacturing",
+      "description": "Comprehensive software solutions for supply chain management, inventory management, warehouses, production monitoring, process automation, and more.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Professional-Services.svg",
+      "imageAlt": "Professional Services icon",
+      "title": "Professional Services",
+      "description": "We develop CRM, management tools, billing products, document management systems, and more. Our solutions are built for professionals by professionals.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Telecoms.svg",
+      "imageAlt": "Telecoms icon",
+      "title": "Telecoms",
+      "description": "We enhance global communication by building solutions for network management, customer experience, IoT, security, automation, and analytics.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Logistics-and-Transportation.svg",
+      "imageAlt": "Logistics and Transportation icon",
+      "title": "Logistics & Transportation",
+      "description": "Software for freight reservation, transportation management, and streamlined supply chain operations to keep goods and business moving.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Engineering-and-Construction.svg",
+      "imageAlt": "Engineering and Construction icon",
+      "title": "Engineering & Construction",
+      "description": "From advanced BIM solutions and cost estimation tools to IoT integration, we lay the foundation for the construction industry.",
+      "services": [],
+      "showServicesList": false,
+      "clickable": false
+    },
+    {
+      "href": "",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Marketing-and-Advertising.svg",
+      "imageAlt": "Marketing and Advertising icon",
+      "title": "Marketing & Advertising",
+      "description": "We build effective Client relationships with marketing automation tools that help optimize strategies, gather insights, and achieve brave goals.",
+      "services": [],
+      "showServicesList": false
+    }
+  ],
+  "testimonials": [
     {
       "review": "The system has produced a significant competitive advantage in the industry thanks to SumatoSoft’s well-thought opinions.",
       "additionalInfo": "They shouldered the burden of constantly updating a project management tool with a high level of detail and were committed to producing the best possible solution.",
@@ -142,67 +142,68 @@
       "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo6.png",
       "authorName": "Damian Gevertz",
       "authorPosition": "Founder & CEO, Widgety"
-    },{
-    "review": "SumatoSoft is great in every regard including costs, professionalism, transparency, and willingness to guide. I think they were great advisors early on when we weren’t ready with a fully fleshed idea that could go to market.",
-    "additionalInfo": "They know the business and startup scene as well globally.",
-    "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo13.png",
-    "authorName": "David Logan",
-    "authorPosition": "Founder, Umergence"
-  },
-  {
-    "review": "SumatoSoft is the firm to work with if you want to keep up to high standards. The professional workflows they stick to result in exceptional quality.",
-    "additionalInfo": "Important, they help you think with the business logic of your application and they don’t blindly follow what you are saying. Which is super important. Overall, great skills, good communication, and happy with the results so far.",
-    "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo2.png",
-    "authorName": "Domien Van Eynde",
-    "authorPosition": "Team Lead, Daiokan.com"
-  }
-  ]
-,
+    },
+    {
+      "review": "SumatoSoft is great in every regard including costs, professionalism, transparency, and willingness to guide. I think they were great advisors early on when we weren’t ready with a fully fleshed idea that could go to market.",
+      "additionalInfo": "They know the business and startup scene as well globally.",
+      "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo13.png",
+      "authorName": "David Logan",
+      "authorPosition": "Founder, Umergence"
+    },
+    {
+      "review": "SumatoSoft is the firm to work with if you want to keep up to high standards. The professional workflows they stick to result in exceptional quality.",
+      "additionalInfo": "Important, they help you think with the business logic of your application and they don’t blindly follow what you are saying. Which is super important. Overall, great skills, good communication, and happy with the results so far.",
+      "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo2.png",
+      "authorName": "Domien Van Eynde",
+      "authorPosition": "Team Lead, Daiokan.com"
+    }
+  ],
   "serviceCards_2": [
-  {
-    "href": "https://sumatosoft.com/solutions/big-data",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Big-data.svg",
-    "imageAlt": "Big Data icon",
-    "title": "Big Data",
-    "description": "Data is the lifeblood of the modern digital era, and we are on top of it, helping businesses process and transform data for their needs. Whether it’s optimizing operations, enhancing customer experiences, or identifying market trends, our big data expertise transforms raw data into a strategic asset for the business.",
-    "services": [
-      "data collection and integration from multiple sources",
-      "scalable data pipeline development",
-      "advanced data analytics and visualization",
-      "predictive modeling and forecasting",
-      "real-time data processing and analysis",
-      "big data infrastructure setup and management",
-      "data warehouse and lake design",
-      "machine learning integration for enhanced insights",
-      "customer behavior and trend analysis",
-      "data security and compliance solutions"
-    ],
-    "linkText": "Big Data services",
-    "showServicesList": true,
-    "hoverEffect": true
-  },
-  {
-    "href": "https://sumatosoft.com/solutions/internet-of-things-software-development",
-    "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Internet-of-Things.svg",
-    "imageAlt": "IoT icon",
-    "title": "Internet of Things (IoT)",
-    "description": "Connect devices, monitor operations, and streamline workflows with our IoT solutions. From smart manufacturing and predictive maintenance to supply chain optimization and remote monitoring, we deliver tailored IoT projects that drive innovation across industries.",
-    "services": [
-      "custom IoT solution development",
-      "IoT device integration and connectivity",
-      "real-time data collection and analysis",
-      "predictive maintenance solutions",
-      "smart manufacturing and automation systems",
-      "fleet management and tracking applications",
-      "IoT consulting",
-      "remote monitoring and control systems",
-      "IoT data visualization and dashboards",
-      "secure IoT infrastructure and compliance"
-    ],
-    "linkText": "IoT software development",
-    "showServicesList": true,
-    "hoverEffect": true
-  }, {
+    {
+      "href": "https://sumatosoft.com/solutions/big-data",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Big-data.svg",
+      "imageAlt": "Big Data icon",
+      "title": "Big Data",
+      "description": "Data is the lifeblood of the modern digital era, and we are on top of it, helping businesses process and transform data for their needs. Whether it’s optimizing operations, enhancing customer experiences, or identifying market trends, our big data expertise transforms raw data into a strategic asset for the business.",
+      "services": [
+        "data collection and integration from multiple sources",
+        "scalable data pipeline development",
+        "advanced data analytics and visualization",
+        "predictive modeling and forecasting",
+        "real-time data processing and analysis",
+        "big data infrastructure setup and management",
+        "data warehouse and lake design",
+        "machine learning integration for enhanced insights",
+        "customer behavior and trend analysis",
+        "data security and compliance solutions"
+      ],
+      "linkText": "Big Data services",
+      "showServicesList": true,
+      "hoverEffect": true
+    },
+    {
+      "href": "https://sumatosoft.com/solutions/internet-of-things-software-development",
+      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Internet-of-Things.svg",
+      "imageAlt": "IoT icon",
+      "title": "Internet of Things (IoT)",
+      "description": "Connect devices, monitor operations, and streamline workflows with our IoT solutions. From smart manufacturing and predictive maintenance to supply chain optimization and remote monitoring, we deliver tailored IoT projects that drive innovation across industries.",
+      "services": [
+        "custom IoT solution development",
+        "IoT device integration and connectivity",
+        "real-time data collection and analysis",
+        "predictive maintenance solutions",
+        "smart manufacturing and automation systems",
+        "fleet management and tracking applications",
+        "IoT consulting",
+        "remote monitoring and control systems",
+        "IoT data visualization and dashboards",
+        "secure IoT infrastructure and compliance"
+      ],
+      "linkText": "IoT software development",
+      "showServicesList": true,
+      "hoverEffect": true
+    },
+    {
       "href": "https://sumatosoft.com/solutions/artificial-intelligence",
       "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Artificial-intelligence.svg",
       "imageAlt": "AI icon",
@@ -222,8 +223,9 @@
       ],
       "linkText": "AI development",
       "showServicesList": true,
-    "hoverEffect": true
-    },{
+      "hoverEffect": true
+    },
+    {
       "href": "https://sumatosoft.com/solutions/blockchain",
       "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Blockchain.svg",
       "imageAlt": "Blockchain icon",
@@ -243,10 +245,9 @@
       ],
       "linkText": "Blockchain development",
       "showServicesList": true,
-    "hoverEffect": true
+      "hoverEffect": true
     }
-]
-,
+  ],
   "homeSliders": [
     {
       "id": 1,
@@ -254,11 +255,10 @@
       "text": "We help you grow your business with smart solutions.",
       "image": "https://png.pngtree.com/background/20210709/original/pngtree-technology-business-blue-background-glare-picture-image_939240.jpg"
     }
-
   ],
   "footer": {
     "companyName": "TechSolutions Inc.",
-    "companyLogo": "https://cdn.dribbble.com/userupload/18467822/file/original-6dc62fc38015a876784c9dcc98737906.jpg?resize=400x0",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZlaUXIWozu3xqknYB3S9nknCPGFPAEVZLA&s",
     "about": "TechSolutions Inc. is a leading provider of innovative business solutions.",
     "navLinks": [
       {
