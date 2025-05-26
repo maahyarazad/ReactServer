@@ -1,157 +1,162 @@
 {
-  "companyName": "TechSolutions Inc.",
+  "companyName": "PalmX",
   "companyLogo": "https://cdn.dribbble.com/userupload/18467822/file/original-6dc62fc38015a876784c9dcc98737906.jpg?resize=400x0",
   "navLinks": [
-    {
-      "label": "About Us",
-      "path": "/about",
-      "id": 1
-    },
+
     {
       "label": "Services",
       "path": "/services",
+      "type" : "button",
+      "id": 1
+    },
+    {
+      "label": "Show Cases",
+      "path": "/Show Cases",
+      "type" : "button",
       "id": 2
-    },
-    {
-      "label": "Case Studies",
-      "path": "/contact",
-      "id": 3
-    },
-    {
-      "label": "Pricing",
-      "path": "/get-started",
-      "type": "button",
-      "id": 4
-    },
-    {
-      "label": "Insights",
-      "path": "/insight",
-      "type": "button",
-      "id": 5
     }
+   
   ],
   "serviceCards_1": [
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Healthcare.svg",
+      "imageSrc": "https://svgsilh.com/svg/1639328.svg",
       "imageAlt": "Healthcare icon",
       "title": "Healthcare",
       "description": "We develop services, tools, and systems to provide patients and staff with up-to-date software.",
       "services": [],
       "showServicesList": false,
-      "clickable": false
+      "clickable": false,
+      "hoverEffect": true,
+      "fixHeight": true
     },
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Education.svg",
+      "imageSrc": "https://svgsilh.com/svg/2429310.svg",
       "imageAlt": "Education icon",
       "title": "Education",
       "description": "E-learning solutions that make education flexible, engaging, and highly efficient.",
       "services": [],
       "showServicesList": false,
-      "clickable": false
+      "clickable": false,
+      "hoverEffect": true,
+      "fixHeight": true
     },
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Retail-and-commerce.svg",
+      "imageSrc": "https://svgsilh.com/svg/35594.svg",
       "imageAlt": "Retail and commerce icon",
       "title": "Retail",
       "description": "We build stronger connections with customers through web and mobile applications with superior shopping experience and 24/7 availability.",
       "services": [],
       "showServicesList": false,
-      "clickable": false
+      "clickable": false,
+      "hoverEffect": true,
+      "fixHeight": true
     },
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Manufacturing.svg",
+      "imageSrc": "https://svgsilh.com/svg/2126877.svg",
       "imageAlt": "Manufacturing icon",
       "title": "Manufacturing",
       "description": "Comprehensive software solutions for supply chain management, inventory management, warehouses, production monitoring, process automation, and more.",
       "services": [],
       "showServicesList": false,
-      "clickable": false
+      "clickable": false,
+      "hoverEffect": true,
+      "fixHeight": true
     },
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Professional-Services.svg",
+      "imageSrc": "https://svgsilh.com/svg/295469.svg",
       "imageAlt": "Professional Services icon",
       "title": "Professional Services",
       "description": "We develop CRM, management tools, billing products, document management systems, and more. Our solutions are built for professionals by professionals.",
       "services": [],
       "showServicesList": false,
-      "clickable": false
+      "clickable": false,
+      "hoverEffect": true,
+      "fixHeight": true
     },
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Telecoms.svg",
+      "imageSrc": "https://svgsilh.com/svg/1254501.svg",
       "imageAlt": "Telecoms icon",
       "title": "Telecoms",
       "description": "We enhance global communication by building solutions for network management, customer experience, IoT, security, automation, and analytics.",
       "services": [],
       "showServicesList": false,
-      "clickable": false
+      "clickable": false,
+      "hoverEffect": true,
+      "fixHeight": true
     },
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Logistics-and-Transportation.svg",
+      "imageSrc": "https://svgsilh.com/svg/152745.svg",
       "imageAlt": "Logistics and Transportation icon",
       "title": "Logistics & Transportation",
       "description": "Software for freight reservation, transportation management, and streamlined supply chain operations to keep goods and business moving.",
       "services": [],
       "showServicesList": false,
-      "clickable": false
+      "clickable": false,
+      "hoverEffect": true,
+      "fixHeight": true
     },
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Engineering-and-Construction.svg",
+      "imageSrc": "https://svgsilh.com/svg/147296.svg",
       "imageAlt": "Engineering and Construction icon",
       "title": "Engineering & Construction",
       "description": "From advanced BIM solutions and cost estimation tools to IoT integration, we lay the foundation for the construction industry.",
       "services": [],
       "showServicesList": false,
-      "clickable": false
+      "clickable": false,
+      "hoverEffect": true,
+      "fixHeight": true
     },
     {
       "href": "",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Marketing-and-Advertising.svg",
+      "imageSrc": "https://svgsilh.com/svg/644850.svg",
       "imageAlt": "Marketing and Advertising icon",
       "title": "Marketing & Advertising",
       "description": "We build effective Client relationships with marketing automation tools that help optimize strategies, gather insights, and achieve brave goals.",
       "services": [],
-      "showServicesList": false
+      "showServicesList": false,
+      "hoverEffect": true,
+      "fixHeight": true
     }
   ],
   "testimonials": [
     {
-      "review": "The system has produced a significant competitive advantage in the industry thanks to SumatoSoft’s well-thought opinions.",
+      "review": "The system has produced a significant competitive advantage in the industry thanks to PalmX well-thought opinions.",
       "additionalInfo": "They shouldered the burden of constantly updating a project management tool with a high level of detail and were committed to producing the best possible solution.",
       "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo.png",
       "authorName": "Alexander McCaig",
       "authorPosition": "Co-Founder & CEO, Tartle"
     },
     {
-      "review": "I was impressed by SumatoSoft’s prices, especially for the project I wanted to do and in comparison to the quotes I received from a lot of other companies.",
-      "additionalInfo": "Also, their communication skills were great; it never felt like a long-distance project. It felt like SumatoSoft was working next door because their project manager was always keeping me updated. Initially.",
+      "review": "I was impressed by PalmX prices, especially for the project I wanted to do and in comparison to the quotes I received from a lot of other companies.",
+      "additionalInfo": "Also, their communication skills were great; it never felt like a long-distance project. It felt like PalmX was working next door because their project manager was always keeping me updated. Initially.",
       "authorImage": "https://sumatosoft.com/wp-content/uploads/2022/12/5cc8378b669af259c74ec736_b_dorsinvil-2-1-1.jpg",
       "authorName": "Benjamin Dorsinvil",
       "authorPosition": "Founder, SellBig"
     },
     {
-      "review": "We tried another company that one of our partners had used but they didn’t work out. I feel that SumatoSoft does a better investigation of what we’re asking for. They tell us how they plan to do a task and ask if that works for us. We chose them because their method worked with us.",
+      "review": "We tried another company that one of our partners had used but they didn’t work out. I feel that PalmX does a better investigation of what we’re asking for. They tell us how they plan to do a task and ask if that works for us. We chose them because their method worked with us.",
       "additionalInfo": "",
       "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo6.png",
       "authorName": "Damian Gevertz",
       "authorPosition": "Founder & CEO, Widgety"
     },
     {
-      "review": "SumatoSoft is great in every regard including costs, professionalism, transparency, and willingness to guide. I think they were great advisors early on when we weren’t ready with a fully fleshed idea that could go to market.",
+      "review": "PalmX is great in every regard including costs, professionalism, transparency, and willingness to guide. I think they were great advisors early on when we weren’t ready with a fully fleshed idea that could go to market.",
       "additionalInfo": "They know the business and startup scene as well globally.",
       "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo13.png",
       "authorName": "David Logan",
       "authorPosition": "Founder, Umergence"
     },
     {
-      "review": "SumatoSoft is the firm to work with if you want to keep up to high standards. The professional workflows they stick to result in exceptional quality.",
+      "review": "PalmX is the firm to work with if you want to keep up to high standards. The professional workflows they stick to result in exceptional quality.",
       "additionalInfo": "Important, they help you think with the business logic of your application and they don’t blindly follow what you are saying. Which is super important. Overall, great skills, good communication, and happy with the results so far.",
       "authorImage": "https://sumatosoft.com/wp-content/uploads/2023/01/photo2.png",
       "authorName": "Domien Van Eynde",
@@ -161,7 +166,7 @@
   "serviceCards_2": [
     {
       "href": "https://sumatosoft.com/solutions/big-data",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Big-data.svg",
+      "imageSrc": "https://svgsilh.com/svg/434037.svg",
       "imageAlt": "Big Data icon",
       "title": "Big Data",
       "description": "Data is the lifeblood of the modern digital era, and we are on top of it, helping businesses process and transform data for their needs. Whether it’s optimizing operations, enhancing customer experiences, or identifying market trends, our big data expertise transforms raw data into a strategic asset for the business.",
@@ -179,11 +184,12 @@
       ],
       "linkText": "Big Data services",
       "showServicesList": true,
-      "hoverEffect": true
+      "hoverEffect": true,
+      "fixHeight": false
     },
     {
       "href": "https://sumatosoft.com/solutions/internet-of-things-software-development",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Internet-of-Things.svg",
+      "imageSrc": "https://svgsilh.com/svg/1873373.svg",
       "imageAlt": "IoT icon",
       "title": "Internet of Things (IoT)",
       "description": "Connect devices, monitor operations, and streamline workflows with our IoT solutions. From smart manufacturing and predictive maintenance to supply chain optimization and remote monitoring, we deliver tailored IoT projects that drive innovation across industries.",
@@ -201,11 +207,12 @@
       ],
       "linkText": "IoT software development",
       "showServicesList": true,
-      "hoverEffect": true
+      "hoverEffect": true,
+      "fixHeight": false
     },
     {
       "href": "https://sumatosoft.com/solutions/artificial-intelligence",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Artificial-intelligence.svg",
+      "imageSrc": "https://svgsilh.com/svg/2099120.svg",
       "imageAlt": "AI icon",
       "title": "Artificial Intelligence",
       "description": "From predictive analytics to machine learning, computer vision, chatbot assistants, and AI-powered healthcare diagnostics, AI impacts spans every industry. We design tailored AI models and integrate AI tools into our projects to drive business transformation.",
@@ -223,11 +230,12 @@
       ],
       "linkText": "AI development",
       "showServicesList": true,
-      "hoverEffect": true
+      "hoverEffect": true,
+      "fixHeight": false
     },
     {
       "href": "https://sumatosoft.com/solutions/blockchain",
-      "imageSrc": "https://sumatosoft.com/wp-content/uploads/2025/01/Blockchain.svg",
+      "imageSrc": "https://svgsilh.com/svg/311941.svg",
       "imageAlt": "Blockchain icon",
       "title": "Blockchain",
       "description": "Unlock the potential of blockchain technology with our services. From smart contracts and digital wallets to supply chain traceability and financial transactions, we develop secure software solutions with tamper-proof records and complete data integrity.",
@@ -245,21 +253,22 @@
       ],
       "linkText": "Blockchain development",
       "showServicesList": true,
-      "hoverEffect": true
+      "hoverEffect": true,
+      "fixHeight": false
     }
   ],
   "homeSliders": [
     {
       "id": 1,
-      "title": "Welcome to Our Platform",
-      "text": "We help you grow your business with smart solutions.",
+      "title": "Creating Seamless Experiences Across Web & Mobile",
+      "text": "Beautiful Websites and Powerful Android & iOS Applications.",
       "image": "https://png.pngtree.com/background/20210709/original/pngtree-technology-business-blue-background-glare-picture-image_939240.jpg"
     }
   ],
   "footer": {
-    "companyName": "TechSolutions Inc.",
+    "companyName": "PalmX",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZlaUXIWozu3xqknYB3S9nknCPGFPAEVZLA&s",
-    "about": "TechSolutions Inc. is a leading provider of innovative business solutions.",
+    "about": "PalmX is a leading provider of innovative business solutions.",
     "navLinks": [
       {
         "label": "Privacy Policy",

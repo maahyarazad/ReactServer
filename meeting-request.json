@@ -1,0 +1,8 @@
+[
+  {
+    "message": "Azut, I've booked a meeting for you on Wednesday.\n\nTo confirm, the details are:\n\n* Date: Wednesday\n* Your Name: Azut\n* Phone Number: 562-16-091\n\nPlease note that we don't schedule meetings on weekends (Saturdays and Sundays). If there's anything specific you'd like to discuss during our meeting, feel free to share that with me. Otherwise, I'll follow up with you after the booking is confirmed."
+  },
+  {
+    "message": "Hi Azox!\n\nI've booked a meeting with you for the next Monday.\n\nBefore I confirm, may I just verify some details? You're available on the Monday that's [insert date], correct?\n\nAlso, would you prefer to have this meeting at our office or via video conference?\n\nPlease let me know, and I'll finalize everything!"
+  }
+]
